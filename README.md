@@ -11,3 +11,7 @@ Las maneras de correr esta aplicacion por consola son:
 * node app actualizar -d "nombre de la tarea" -c "true o false"  --> de no tener el status c; sera true por default
 * node borrar -d "nombre de la tarea"
 
+Donde:
+
+* -d ---> Se refiere a la descripcion de la tarea, por ejemplo "correr"
+* -c ---> Es el status de la tareas solo puede ser TRUE o FALSE
